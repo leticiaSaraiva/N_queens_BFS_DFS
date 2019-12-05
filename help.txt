@@ -1,0 +1,38 @@
+
+/////////////////EXECUÇÂO/////////////////
+Caso não tenha JDK, instale-o com:
+    sudo apt install default-jdk
+
+Os códigos estão nos arquivos .java
+A classe principal está no 'Solver.java'
+
+Para compilar os aquivos, utilize o comando:
+    javac Solver.java
+
+
+Para executar o programa, utilize o comando:
+    java Solver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
